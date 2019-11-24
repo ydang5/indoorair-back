@@ -1,0 +1,5 @@
+from api.serializers.gateway.login_serializers import LoginSerializer
+from api.serializers.gateway.register_serializers import RegisterSerializer
+from api.serializers.dashboard.dashboard_serializers import DashboardSerializer
+from api.serializers.instrument.instrument_serializers import InstrumentSerializer
+from api.serializers.sensor.sensor_serializers import SensorSerializer
